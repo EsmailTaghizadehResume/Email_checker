@@ -1,8 +1,9 @@
-# E-mail Checker About
+# E-mail Checker About ⁉️
 
 2 years ago my friend give a txt file with a 10,000 of gmails and need to checking all of them to find a real gmail 📧 , there is many way 🛣️ to checking 
 a gmail that is it just checking it as string like have @ or gmail.com 
-but this is not my friend want he want to checking is it real exist or not
+but this is not my friend want he want to checking is it real exist or not.
+
 hi 🙋‍♂️ my name is esmail taghizadeh and in this app i solve the problem 
 
 
@@ -16,7 +17,7 @@ for this app we have some solutions like :
 3. ✅ checking by validate_email library with threading : perhaps it is good one if we use in right way 🛣️.
 
 
-# How to Application
+# How to Application 🈸
 
 we have tree label 🏷️ first one is showing the number of E-mail's 📧 and other's for showing vaild and invalid E-mail's 📧 all vaild E-mail are in a file name GOOOD.txt in 
 app 🈸 directory , we most select a txt file to Enable the start button , and we have timer in the end of sceen📺.
