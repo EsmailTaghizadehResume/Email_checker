@@ -1,1 +1,1 @@
-# Email_checker
+# E-mail Checker
